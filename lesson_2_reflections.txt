@@ -10,13 +10,23 @@ It is a temporal state between both. Iy gives you the flexibility to add or not 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can compare changes of staged area files compared with commits.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Useful when you want to add a new feature.
+
 How do the diagrams help you visualize the branch structure?
+
+It is quite useful. It gives a "whole" view of your project.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Merging two branches I get a commit with the changes made in both branches.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Pros: You don´t lose time with automatic but can be some incompatibility between branches.You can fixed it doing a manual merge.
